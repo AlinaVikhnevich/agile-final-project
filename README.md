@@ -1,5 +1,6 @@
 # agile-final-project
-**Final Project Overview and Scenario 
+Final Project Overview and Scenario 
+
 OVERVIEW  
 Now that you have been equipped with the knowledge and skills to create sprint plans, you will have the opportunity in this final project to practice and apply it by creating stories, assembling them into a product backlog, refining them to produce a sprint plan, and perform a mock sprint that involves moving stories across your kanban board as your team would do in a real sprint.  
 
@@ -75,4 +76,3 @@ Make sure that your burndown chart displays correctly.
 
 Share the URL of your kanban board for peer review.  (Please click on "Invite your team" and copy the link which, will be valid for 2 days. Please share this link as the URL of your kanban board for peer review. )
 
-**
